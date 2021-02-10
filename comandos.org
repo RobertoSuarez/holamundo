@@ -2,3 +2,6 @@
 
 * comandos
 git init // incializa
+
+git add <archivo>
+git commit -m
