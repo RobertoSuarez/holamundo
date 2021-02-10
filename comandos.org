@@ -1,0 +1,4 @@
+#+TITLE: Comandos
+
+* comandos
+git init // incializa
